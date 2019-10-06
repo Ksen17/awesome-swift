@@ -353,6 +353,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [InAppPurchase](https://github.com/jinSasaki/InAppPurchase) - A Simple, Lightweight and Safe framework for In App Purchase.
 * [merchantkit](https://github.com/benjaminmayo/merchantkit) - A modern In-App Purchases management framework for iOS.
 * [SwiftyStoreKit](https://github.com/bizz84/SwiftyStoreKit) - Lightweight In App Purchases framework.
+* [AppStoreReviewManager](https://github.com/Ksen17/AppStoreReviewManager) - One simple class to handle whole AppStore rating asking process for you.
 
 ### Audio
 *Libs to work with audio* [back to top](#readme) 
